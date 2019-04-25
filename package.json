@@ -1,24 +1,12 @@
 {
-  "name": "todolist_tp_openclassroom",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "ejs": "^2.6.1",
-    "express": "^4.16.4"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Braloup/toDoList_TP_OpenClassRoom.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Braloup/toDoList_TP_OpenClassRoom/issues"
-  },
-  "homepage": "https://github.com/Braloup/toDoList_TP_OpenClassRoom#readme"
+    "name": "ma-todolist",
+    "version": "0.1.0",
+    "dependencies": {
+        "body-parser": "~1.10.1",
+        "cookie-session": "^1.3.3",
+        "ejs": "~2.1.4",
+        "express": "^4.16.4"
+    },
+    "author": "Mateo21 <mateo21@email.com>",
+    "description": "Un gestionnaire de todolist ultra basique"
 }
